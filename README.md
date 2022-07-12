@@ -2,7 +2,7 @@
 
 # Biografia
 
-uma breve apresentação sobre mim e minh experiência profissional
+Formada em Geografia, minha atuação profissional foi construída principalmente na área de Customer Experience. Uma curiosa nata e entusiasta da tecnologia dando meus primeiros passos com programação. 
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
